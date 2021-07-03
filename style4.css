@@ -1,0 +1,15 @@
+img{width:800px;
+    height:500px;
+    display: block;
+    margin: 0 auto;}
+h5{text-align:center;
+  margin-top: 70px;
+  margin-bottom: 30px;
+  font-size: 40px;}
+a{color:#FF9C07;}
+.back{margin: 20px;
+  font-size:18px;
+  color:#FF9C07;}
+body{background-color:#43A65F;
+     background-image: url("../images/배경2.jpg");
+     background-size: cover;}
